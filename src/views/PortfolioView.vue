@@ -155,7 +155,7 @@ export default {
         {
           id: 7,
           name: "Sistem Konfirmasi PRO (Order Number) Perusahaan",
-          imageUrl: "konfirmasi.jpg",
+          imageUrl: "konfirmasi2.jpg",
           status:
             "Proyek ini adalah sistem berbasis web yang dibuat untuk membantu proses bisnis perusahaan agar lebih efisien.",
           tech: "Laravel, Tailwind, Python (Flask), Mysql, SAP (Function)",
