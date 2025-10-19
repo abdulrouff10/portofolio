@@ -34,9 +34,6 @@
                 <router-link to="/contact" class="text-slate-800 hover:text-blue-600 transition">Contact</router-link>
               </li>
 
-            <!-- <li>
-              <router-link to="/blog" class="fadein-bot fadein-3 text-sky-900 hover:text-sky-600 md:p-0">Blog</router-link>
-            </li> -->
           </ul>
         </div>
       </div>
