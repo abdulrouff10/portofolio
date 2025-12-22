@@ -162,6 +162,16 @@ export default {
           github: "https://github.com/abdulrouff10/konfirmasi_pro",
           demo: "https://confirmation-pro.kmifilebox.com/",
         },
+        {
+          id: 8,
+          name: "Aplikasi Pemesanan Tiket Travel",
+          imageUrl: "travel.jpeg",
+          status:
+            "Proyek ini adalah sistem berbasis web yang dibuat untuk memudahkan proses bisnis pemesanan travel.",
+          tech: "Laravel, Bootstrap, Mysql",
+          github: "null",
+          demo: "null",
+        },
         // {
         //   id: 6,
         //   name: "Sistem Informasi Manajemen Pengguna",
