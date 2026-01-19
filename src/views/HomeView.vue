@@ -27,7 +27,7 @@
       </p>
 
       <a
-        href="https://drive.google.com/file/d/1XkQKn6it1MSC77TVssYwQVdvVhyMh4hn/view?usp=sharing"
+        href="https://drive.google.com/file/d/1VVAmqyb4XLtziW9j786mIoYFMbT3owEB/view?usp=sharing"
         target="_blank"
         rel="noopener noreferrer"
         class="fadein-bot fade-500 inline-flex items-center py-2 px-4 text-sm font-medium rounded-lg border transition duration-300 md:py-2.5 md:px-5 text-sky-700 border-sky-400 hover:bg-sky-100 bg-white bg-opacity-70 shadow tracking-tighter"
