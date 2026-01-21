@@ -212,15 +212,9 @@ export default {
           id: 2,
           name: "GitHub",
           imageUrl: "https://cdn-icons-png.flaticon.com/512/25/25231.png",
-          status: "Git Hosting",
+          status: "Version Control",
         },
-        // {
-        //   id: 3,
-        //   name: "NPM",
-        //   imageUrl:
-        //     "https://cdn.iconscout.com/icon/free/png-256/free-npm-3-1175132.png",
-        //   status: "Package Manager",
-        // },
+        
         {
           id: 4,
           name: "MySQL",
@@ -229,22 +223,29 @@ export default {
         },
         {
           id: 5,
-          name: "Laragon",
-          imageUrl: "img/laragon.svg",
-          status: "Local Server",
+          name: "WordPress",
+          imageUrl: "https://cdn-icons-png.flaticon.com/512/174/174881.png",
+          status: "CMS",
         },
-        // {
-        //   id: 6,
-        //   name: "Xampp",
-        //   imageUrl: "img/xampp.svg",
-        //   status: "Local Server",
-        // },
-        //  {
-        //   id: 7,
-        //   name: "Git Bash",
-        //   imageUrl: "img/gitbash.svg",
-        //   status: "Terminal",
-        // },
+        {
+          id: 6,
+          name: "Canva",
+          imageUrl: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg", 
+          status: "Design Tool",
+        },
+        {
+          id: 7,
+          name: "Figma",
+          imageUrl: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg",
+          status: "Design Tool",
+        },
+        {
+          id: 8,
+          name: "Microsoft",
+          imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Microsoft_logo.svg/512px-Microsoft_logo.svg.png",
+          status: "Office Suite",
+        }
+        
       ],
     };
   },
