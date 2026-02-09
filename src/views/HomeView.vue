@@ -26,7 +26,7 @@
         Welcome to my personal website...
       </p>
 
-      <a
+      <!-- <a
         href="https://drive.google.com/file/d/1VVAmqyb4XLtziW9j786mIoYFMbT3owEB/view?usp=sharing"
         target="_blank"
         rel="noopener noreferrer"
@@ -48,7 +48,7 @@
           />
         </svg>
         Download Resume
-      </a>
+      </a> -->
 
     </div>
 
